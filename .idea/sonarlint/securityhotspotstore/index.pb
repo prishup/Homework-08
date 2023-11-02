@@ -10,8 +10,6 @@ S
 S
 #src/javaProgrammes/Question_09.java,b\5\b53ab2c72654e4a4bdccec146268f15eaabffe5f
 S
-#src/javaProgrammes/Question_18.java,6\9\691ece241684019358986c57116b1391d27f07fd
-S
 #src/javaProgrammes/Question_22.java,9\8\98964885b09d08e6ec8141f17a817fc5a1408380
 S
 #src/javaProgrammes/Question_03.java,5\3\53a95bfc20a4ea36bad7a13e25a011d2a32e356d
