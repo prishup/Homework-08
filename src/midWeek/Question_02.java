@@ -6,7 +6,6 @@ package midWeek;
 public class Question_02 {
     public static void main(String[] args) {
        multiplication();
-
     }
     public static void multiplication(){
         int[] numbers = {24, 50, 29};
@@ -22,4 +21,3 @@ public class Question_02 {
 
 
 
-    //

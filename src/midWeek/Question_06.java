@@ -13,14 +13,16 @@ f. Above 80 - A
 Ask user to enter marks and print the corresponding grade.
 */
 public class Question_06{
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args)
+    {marks();
+    }
+     public static void marks (){
 
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your marks: ");
         int marks = scanner.nextInt();
 
-        char grade;
-
+        char grade ;
         if (marks < 25) {
             grade = 'F';
         } else if (marks >= 25 && marks < 45) {

@@ -43,8 +43,6 @@ public class Question_12 {
                 default:
                 System.out.println("Invalid Entry");
                 break;
-
-
         }
     }
 }
