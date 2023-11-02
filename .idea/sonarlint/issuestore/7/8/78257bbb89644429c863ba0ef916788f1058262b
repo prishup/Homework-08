@@ -1,0 +1,38 @@
+
+h
+java:S1192;"KDefine a constant instead of duplicating this literal "         |" 4 times.(ÉÖº8ˆ›İº¸1
+ƒ
+java:S11929"aDefine a constant instead of duplicating this literal "|______________________________|" 6 times.(‰²¸Ğÿÿÿÿÿ8Š›İº¸1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÜÆ²ûÿÿÿÿ8‹›İº¸1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¿‚çøÿÿÿÿ8‹›İº¸1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õøåêûÿÿÿÿ8‹›İº¸1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èñ‚)8‹›İº¸1
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ôØôøÿÿÿÿ8Œ›İº¸1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üºñ8Œ›İº¸1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¼«ùşÿÿÿÿ8›İº¸1
+G	java:S106"+Replace this use of System.out by a logger.(ªÁ‘ò8Ê¢İº¸1
+G	java:S106"+Replace this use of System.out by a logger.(åì÷ş8ñ¢İº¸1
+G	java:S106"+Replace this use of System.out by a logger.(¨Ü±ˆ8€£İº¸1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ°à¿ÿÿÿÿÿ8£İº¸1
+G	java:S106"+Replace this use of System.out by a logger.(‹ƒ­8Ÿ£İº¸1
+L	java:S106"+Replace this use of System.out by a logger.(±ÆÙ­ùÿÿÿÿ8¢£İº¸1
+G	java:S106&"+Replace this use of System.out by a logger.(à£îØ8¯£İº¸1
+G	java:S1066"+Replace this use of System.out by a logger.(ï½×“8¶£İº¸1
+G	java:S1067"+Replace this use of System.out by a logger.(»‰ö®8¸£İº¸1
+L	java:S1068"+Replace this use of System.out by a logger.(ùíôÜüÿÿÿÿ8¹£İº¸1
+L	java:S1069"+Replace this use of System.out by a logger.(‰²¸Ğÿÿÿÿÿ8º£İº¸1
+L	java:S106:"+Replace this use of System.out by a logger.(£ëìÀşÿÿÿÿ8»£İº¸1
+G	java:S106;"+Replace this use of System.out by a logger.(ÉÖº8½£İº¸1
+L	java:S106<"+Replace this use of System.out by a logger.(‰²¸Ğÿÿÿÿÿ8Ğ£İº¸1
+L	java:S106="+Replace this use of System.out by a logger.( ¦íâùÿÿÿÿ8Ñ£İº¸1
+L	java:S106>"+Replace this use of System.out by a logger.(‰²¸Ğÿÿÿÿÿ8Ó£İº¸1
+G	java:S106?"+Replace this use of System.out by a logger.(ıî¡—8Ô£İº¸1
+L	java:S106@"+Replace this use of System.out by a logger.(«Á·òÿÿÿÿÿ8Ö£İº¸1
+L	java:S106A"+Replace this use of System.out by a logger.(â¨ÓÙøÿÿÿÿ8æ£İº¸1
+L	java:S106B"+Replace this use of System.out by a logger.(‰²¸Ğÿÿÿÿÿ8è£İº¸1
+L	java:S106C"+Replace this use of System.out by a logger.(Êå«ïÿÿÿÿÿ8é£İº¸1
+L	java:S106D"+Replace this use of System.out by a logger.(‰²¸Ğÿÿÿÿÿ8ì£İº¸1
+L	java:S106E"+Replace this use of System.out by a logger.(éíå„şÿÿÿÿ8í£İº¸1
+L	java:S106F"+Replace this use of System.out by a logger.(ÔÆ”Øşÿÿÿÿ8ï£İº¸1
+G	java:S106G"+Replace this use of System.out by a logger.(‹÷îı8ù£İº¸1
+L	java:S106H"+Replace this use of System.out by a logger.(‰²¸Ğÿÿÿÿÿ8ú£İº¸1

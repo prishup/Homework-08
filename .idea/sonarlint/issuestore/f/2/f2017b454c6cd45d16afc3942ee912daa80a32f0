@@ -1,0 +1,12 @@
+
+h
+java:S1192}"KDefine a constant instead of duplicating this literal "fullName= " 3 times.(ß€ 8ÙïÚ¹¸1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¼«ùşÿÿÿÿ8ŞïÚ¹¸1
+]	java:S125"<This block of commented-out lines of code should be removed.(½Ñã„üÿÿÿÿ8õïÚ¹¸1
+^
+java:S1126_"AReplace this if-then-else statement by a single return statement.(‡ƒ‹¤8ûïÚ¹¸1
+G	java:S106}"+Replace this use of System.out by a logger.(ß€ 8…ğÚ¹¸1
+G	java:S106~"+Replace this use of System.out by a logger.(ÿ„Ö¶8…ğÚ¹¸1
+H	java:S106"+Replace this use of System.out by a logger.(ß€ 8‡ğÚ¹¸1
+H	java:S106‚"+Replace this use of System.out by a logger.(ÿ„Ö¶8‡ğÚ¹¸1
+H	java:S106„"+Replace this use of System.out by a logger.(ß€ 8ˆğÚ¹¸1

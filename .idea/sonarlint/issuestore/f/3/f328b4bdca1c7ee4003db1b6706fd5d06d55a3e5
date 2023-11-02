@@ -1,0 +1,10 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷æ²Åşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¼«ùşÿÿÿÿ
+
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8€”à—¸1
+S
+java:S1854"6Remove this useless assignment to local variable "ch".(íœÏ8”à—¸1
+G	java:S106"+Replace this use of System.out by a logger.(¼£‰8””à—¸1
+D
+java:S1481"'Remove this unused "ch" local variable.(íœÏ8 ”à—¸1
